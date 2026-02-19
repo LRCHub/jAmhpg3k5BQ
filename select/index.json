@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "灼熱Glitter",
+  "base_artist": "Peel the Apple",
+  "createdAt": "2026-02-19T09:49:44.444035Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "灼熱Glitter",
+      "artist": "Peel the Apple",
+      "has_synced": false,
+      "path": "select/pl_01_灼熱Glitter_Peel_the_Apple.txt"
+    }
+  ]
+}
